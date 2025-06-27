@@ -1,0 +1,15 @@
+# Sistema de Inventario - Tornillería Superior
+
+Este proyecto esta siendo desarrollado como parte del proyecto formativo para el tecnólogo en Análisis y Desarrollo de Software del SENA.
+
+## Funcionalidades
+
+- CRUD de productos, clientes y proveedores
+- Búsqueda en tiempo real con DataTables
+- Roles (en proceso)
+- Panel de administración
+
+Para login:
+Username: laurasofia9@gmail.com
+Password: 1234
+ 
